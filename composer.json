@@ -1,16 +1,16 @@
 {
-    "name": "imanghafoori/laravel-fast-refresh-database",
+    "name": "mohamadtsn/laravel-fast-refresh-database",
     "description": "Quickly refresh your large database in tests.",
     "keywords": [
         "laravel-testing"
     ],
-    "homepage": "https://github.com/imanghafoori1/laravel-fast-refresh-database",
+    "homepage": "https://github.com/mohamadtsn/laravel-fast-refresh-database",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Iman",
-            "email": "imanghafoori1@gmail.com",
+            "name": "Mohamad",
+            "email": "mohamad.borzoyi@gmail.com",
             "role": "Developer"
         }
     ],
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Imanghafoori\\DatabaseFresh\\": "src"
+            "MohamadTsn\\DatabaseFresh\\": "src"
         }
     },
     "config": {
