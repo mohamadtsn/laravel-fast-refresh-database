@@ -1,6 +1,6 @@
 <?php
 
-namespace Imanghafoori\DatabaseFresh;
+namespace MohamadTsn\DatabaseFresh;
 
 use Illuminate\Database\ConnectionInterface;
 use Illuminate\Foundation\Testing\Traits\CanConfigureMigrationCommands;
