@@ -27,6 +27,11 @@
             "MohamadTsn\\DatabaseFresh\\": "src"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "MohamadTsn\\DatabaseFresh\\Tests\\": "tests"
+        }
+    },
     "config": {
         "sort-packages": true
     }
